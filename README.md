@@ -1,2 +1,2 @@
 # icequake
-Source for IceQuake
+The entire website source for IceQuake.
